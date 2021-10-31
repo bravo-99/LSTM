@@ -1,1 +1,1 @@
-web: import matplotlip && streamlit run app.py
+web: streamlit run app.py
