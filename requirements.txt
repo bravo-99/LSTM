@@ -4,3 +4,4 @@ matplotlib
 pandas_datareader
 pyparsing==2.4.7
 keras
+tensorflow
