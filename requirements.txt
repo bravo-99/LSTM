@@ -5,3 +5,4 @@ pandas_datareader
 pyparsing==2.4.7
 keras
 tensorflow
+numpy==1.19.2
