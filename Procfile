@@ -1,1 +1,1 @@
-web: sh setup.sh && pip install matplotlib && mport pandas_datareader && from keras.models import load_model && streamlit run app.py
+web: sh setup.sh && streamlit run app.py
