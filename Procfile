@@ -1,1 +1,1 @@
-web: sh setup.sh && import matplotlip && streamlit run app.py
+web: import matplotlip && streamlit run app.py
